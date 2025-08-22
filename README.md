@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👨‍💻 Pedro Henrique  
 
-<!--
-**pedrohenrique7485/pedrohenrique7485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀**Desenvolvedor em Formação**  
 
-Here are some ideas to get you started:
+Meu nome é Pedro Henrique, tenho 17 anos e sou natural de Fortaleza (CE). Estou finalizando meu Ensino Médio Técnico em Análise de Desenvolvimento de sistemas, com foco em adquirir experiência em programação e tecnologia.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia e sempre em busca de aprender novas ferramentas, linguagens e frameworks. Meu objetivo é evoluir como desenvolvedor e contribuir em projetos que façam a diferença.  
+
+---
+
+📊 **Estatísticas do GitHub**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroHenrique&show_icons=true&theme=radical)  
+
+---
+
+### 🚀 Linguagens e Tecnologias  
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+</p>  
+
+---
+
+📫 **Como me encontrar**     
+- 📧 Email: pedro.h.santana9@aluno.br
+  
+----------------------------------------------------------
