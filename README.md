@@ -9,7 +9,9 @@ Sou apaixonado por tecnologia e sempre em busca de aprender novas ferramentas, l
 ---
 
 📊 **Estatísticas do GitHub**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroHenrique&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroHenrique&show_icons=true&theme=radical) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique&layout=compact&theme=radical)  
 
 ---
 
