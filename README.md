@@ -10,10 +10,9 @@ Sou apaixonado por tecnologia e sempre em busca de aprender novas ferramentas, l
 
 ## 📊 Estatísticas do GitHub
 
-![Pedro Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique7485&show_icons=true&theme=radical)
+![Pedro Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohenrique7485&show_icons=true&theme=radical&cache_seconds=1800)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique7485&layout=compact&theme=radical)
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique7485&layout=compact&theme=radical&cache_seconds=1800)  
 
 ---
 
