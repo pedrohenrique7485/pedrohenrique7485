@@ -27,6 +27,6 @@ Sou apaixonado por tecnologia e sempre em busca de aprender novas ferramentas, l
 ---
 
 📫 **Como me encontrar**     
-- 📧 Email: pedro.h.santana9@aluno.br
+- 📧 Email: pedro.h.santana9@aluno.senai.br
   
 ----------------------------------------------------------
