@@ -6,17 +6,7 @@ Sou desenvolvedor de sistemas com formação técnica concluída em Análise e D
 
 Tenho interesse em ingressar profissionalmente na área de tecnologia como desenvolvedor júnior ou estagiário, buscando aplicar meus conhecimentos técnicos, evoluir continuamente e contribuir para projetos reais.
 
----
 
-## 📊 Estatísticas do GitHub
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default)
-
----
 
 ### 🚀 Linguagens e Tecnologias  
 
