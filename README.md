@@ -1,10 +1,10 @@
-# 👨‍💻 Olá, meu nome é Pedro Henrique  
+ 👋 Olá, meu nome é Pedro Henrique
 
-🚀**Desenvolvedor em Formação**  
+💻 **Desenvolvedor de Sistemas | Início de carreira**
 
-Meu nome é Pedro Henrique, tenho 17 anos e sou natural de Fortaleza (CE). Estou finalizando meu Ensino Médio Técnico em Análise de Desenvolvimento de sistemas, com foco em adquirir experiência em programação e tecnologia.  
+Sou desenvolvedor de sistemas com formação técnica concluída em Análise e Desenvolvimento de Sistemas. Possuo experiência prática em programação adquirida por meio de projetos acadêmicos e pessoais, com foco em lógica de programação e desenvolvimento de soluções.
 
-Sou apaixonado por tecnologia e sempre em busca de aprender novas ferramentas, linguagens e frameworks. Meu objetivo é evoluir como desenvolvedor e contribuir em projetos que façam a diferença.  
+Tenho interesse em ingressar profissionalmente na área de tecnologia como desenvolvedor júnior ou estagiário, buscando aplicar meus conhecimentos técnicos, evoluir continuamente e contribuir para projetos reais.
 
 ---
 
